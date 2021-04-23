@@ -4,8 +4,8 @@ description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : wesleygas/wesleygas.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -30,11 +30,11 @@ author:
 # dribbble          : your_username
   email             : username@domain.com
   facebook          : your_username
-  github            : your_username
+  github            : wesleygas
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : wesleygabriel
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
