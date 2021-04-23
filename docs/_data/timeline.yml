@@ -1,17 +1,65 @@
-- title: Student, Harvard CS
+- title: ISMART
   from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:
+    At ISMART, Institution that provides scholarships for low income talented students
+    I had the opportinity to study at one of the best high schools of Brasil, Colegio Marista
+    Arquidiocesano, with 100% scholarship. As if it wasn't enough, there is still a personal
+    development program that I'm still part of.
+
+- title: Computer Engineering, Insper
+  from: 2017
+  to: present
+  description: |
+    With a full scholarship I joined Insper knowing I had to experience all I could. So I
+    did it! I would spend all the time out of classes at the labs, trying all the tools and
+    machines available, from osciloscopes to 3D printers. When the time came to use them in
+    class I could already help my classmates and try more advanced experiments.
+    
+    Out of classes and labs, I joined VEGA Cultural, a student-run organization focused on
+    bringing cultural activities to the campus, in which I took care of the finantial side 
+    of contracting and renting the installations.
+
+    From the 2nd semester until now I have been reelected as the class representative for the
+    great relation with all the Faculty and university's departments while never been less
+    than the 2nd in class.
+
+- title: Capstone design summer program, KOREATECH, KR
+  from: nov 2019
+  to: feb 2020
+  description: 
+    Partial scholarship for the summer Program for Capstone Design Project. Aside for the the
+    understanding of design, manufacturing and the applications of solar cells and 3D modeling,
+    this program was my first experience outside of Brazil. It gave me the confirmation that
+    as long as I am doing what I love, which is being an engineer surrounded by briliant people,
+    I will be happy wherever the country, language or currency.
+
+- title: Data Science Intern, BigData, BR
+  from: nov 2019
+  to: feb 2020
+  description: 
+    At BigData I chose the challenge to validate and analyze a space state based time series
+    forecasting model for use in scarce data scenarios without having ever studied time series
+    forecasting. Diving through the papers and the code written I was able to implement other
+    baseline methods for comparison while also getting a performance improvement of 40% in the
+    prediction runtime and doubling the size of the proxy pool used by the whole company.
+
+- title: Operations Summer Intern, BTG Pactual, BR
+  from: jun 2020
+  to: jul 2020
+  description: 
+    I started at BTG with the task to build an interactive dashboard for consolidating the
+    risk and origin of incomplete finantial operations. Finishing before the deadline, I
+    was able to integrate a MQ service with the internal SQL database, giving the Operations
+    area data they had never been able to get on time.
+
+- title: Lead project developer, Dolado, BR
+  from: Aug 2020
+  to: Jan 2021
+  description: 
+    I joined Dolado as a javascript backend developer, implementing routes for the company's
+    marketplace. The number of customers was increasing and during meetings we saw the need
+    to better understand what was the experience we were giving them. I joined the senior developer
+    two weeks after starting on my position. After two more weeks, with the results and
+    ideas I brought I was assigned to the leadership role of the Data squad, building the
+    infrastructure to gather, store and analyze all the user data needed to understand out customer.

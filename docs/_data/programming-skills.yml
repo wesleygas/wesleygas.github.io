@@ -1,11 +1,34 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Python
+  percentage: 95
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: C/C++
+  percentage: 90
+  color: success
 
-- name: Python
+- name: Javascript
+  percentage: 90
+  color: success
+
+- name: SQL
+  percentage: 80
+  color: warning
+
+- name: VHDL
   percentage: 70
+  color: primary
+
+- name: C#
+  percentage: 70
+  color: primary
+
+- name: MatLab
+  percentage: 60
   color: dark
+
+- name: noSQL
+  percentage: 60
+  color: dark
+
+
+

@@ -1,7 +1,23 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Linux Based OS
+  percentage: 80
+  color: danger
+
+- name: Fusion 360
+  percentage: 75
+  color: warning
+
+- name: AWS
+  percentage: 70
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Unity
+  percentage: 70
+  color: info
+
+- name: Eagle
+  percentage: 70
+  color: info
+
+- name: SolidCAM
+  percentage: 50
+  color: dark

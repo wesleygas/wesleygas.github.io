@@ -1,7 +1,5 @@
-<div align="center">
-    <h1>portfolYOU</h1>
-    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
-    <br><br>
-    <img src="screenshot.gif">
-    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
-</div>
+## MyIndex
+
+A place for me to share my projects with the world and for you to know me better
+
+Just go to the [github pages](wesleygas.github.io)
