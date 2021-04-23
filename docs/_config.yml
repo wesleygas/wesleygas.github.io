@@ -3,7 +3,7 @@ title               : What do I do?
 description         : >-
                       I do what an engineer does best: looks for problems that need to
                       be solved. Here you will find some of the projects I did while
-                      trying to solve such problems or just for the sake of curiosity.
+                      trying to solve such problems or just feed my curiosity.
                        
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : wesleygas/wesleygas.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -20,12 +20,12 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
+  - documentation/**                         # For Documentation Only
 
 
 ### Author Info ###
 author:
-  name              : Wesley G. Albano da Silva
+  name              : Wesley G. Silva
   image             : https://avatars.githubusercontent.com/u/26439730?v=4 
   # behance           : your_username
 # dribbble          : your_username
@@ -38,7 +38,7 @@ author:
   linkedin          : wesleygabriel
   # medium            : your_username
 # soundcloud        : your_username
-# spotify           : your_username
+spotify           : 12159396059
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
@@ -49,7 +49,7 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+# permalink: /blog/:title
 
 
 ### Collections ###
