@@ -1,22 +1,26 @@
 - name: Linux Based OS
   percentage: 80
-  color: danger
+  color: success
 
 - name: Fusion 360
   percentage: 75
   color: warning
 
-- name: AWS
+- name: FreeRTOS
   percentage: 70
   color: info
 
-- name: Unity
+- name: AWS
   percentage: 70
   color: info
 
 - name: Eagle
   percentage: 70
   color: info
+
+- name: Unity
+  percentage: 60
+  color: secondary
 
 - name: SolidCAM
   percentage: 50
