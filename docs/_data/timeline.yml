@@ -3,7 +3,7 @@
   to: present
   description:
     At ISMART, Institution that provides scholarships for low income talented students
-    I had the opportinity to study at one of the best high schools of Brasil, Colegio Marista
+    I had the opportunity to study at one of the best high schools of Brasil, Colegio Marista
     Arquidiocesano, with 100% scholarship. As if it wasn't enough, there is still a personal
     development program that I'm still part of.
 
@@ -13,11 +13,11 @@
   description: |
     With a full scholarship I joined Insper knowing I had to experience all I could. So I
     did it! I would spend all the time out of classes at the labs, trying all the tools and
-    machines available, from osciloscopes to 3D printers. When the time came to use them in
+    machines available, from oscilloscopes to 3D printers. When the time came to use them in
     class I could already help my classmates and try more advanced experiments.
     
     Out of classes and labs, I joined VEGA Cultural, a student-run organization focused on
-    bringing cultural activities to the campus, in which I took care of the finantial side 
+    bringing cultural activities to the campus, in which I took care of the financial side 
     of contracting and renting the installations.
 
     From the 2nd semester until now I have been reelected as the class representative for the
@@ -31,7 +31,7 @@
     Partial scholarship for the summer Program for Capstone Design Project. Aside for the the
     understanding of design, manufacturing and the applications of solar cells and 3D modeling,
     this program was my first experience outside of Brazil. It gave me the confirmation that
-    as long as I am doing what I love, which is being an engineer surrounded by briliant people,
+    as long as I am doing what I love, which is being an engineer surrounded by brilliant people,
     I will be happy wherever the country, language or currency.
 
 - title: Data Science Intern, BigData - BR
@@ -49,7 +49,7 @@
   to: jul 2020
   description: 
     I started at BTG with the task to build an interactive dashboard for consolidating the
-    risk and origin of incomplete finantial operations. Finishing before the deadline, I
+    risk and origin of incomplete financial operations. Finishing before the deadline, I
     was able to integrate a MQ service with the internal SQL database, giving the Operations
     area data they had never been able to get on time.
 

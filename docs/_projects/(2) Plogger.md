@@ -18,7 +18,7 @@ sdcard just for good measure.
 ## Inputs
 
 As a power metering device, there are only two inputs we are interested in: 
-``Current`` and ``Voltage``. Luckly, the [INA219](https://esphome.io/components/sensor/ina219.html) 
+``Current`` and ``Voltage``. Luckily, the [INA219](https://esphome.io/components/sensor/ina219.html) 
 gets the job done in that regard, so the first step is to setup this sensor
 using the existing documentation. 
 
@@ -321,7 +321,7 @@ is a bit tricky at first glance, but the comments are there to take care of some
 
 I got the icons from the [Material Design Icons](https://materialdesignicons.com) website.
 To make them work in ESPHome I also had to make the transparent background not transparent.
-The easyest way to do this is to open the .png you get from the website on Paint and save
+The easiest way to do this is to open the .png you get from the website on Paint and save
 from there. I also put them all along with the  ``config`` and ``.h`` files on my github over 
 [here](https://github.com/wesleygas/home-assistant-config/tree/main/esphome)
 

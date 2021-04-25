@@ -22,7 +22,7 @@ But that's the only precise thing about this sensor. Pretty
 much anything **will** change the capacitance between it's plates and, consequently, it's output.
 
 
-To couter at least one of the variables, I picked up an already encapsulated 10K NTC thermistor.
+To counter at least one of the variables, I picked up an already encapsulated 10K NTC thermistor.
 ![ntc_thermistor](https://cdn.awsli.com.br/1000x1000/468/468162/produto/40134109/74419896e6.jpg)
 
 The output of this specific thermistor, the MF58 is already well known, but in order to validate
@@ -44,7 +44,7 @@ an atmega328 on a arduino pro mini) needs to go through some modifications:
 2. Make sure to put the uC on Power-Save Mode. This is already taken care of by the MySGW library through
 a ``sleep(time_ms, false)`` call. 
 
-But still after this, the other sensors would still use power. To prevent that from happening, I joined all of them on a separte power rail in which the GND is controlled via an AO3401a N-Channel Mosfet that 
+But still after this, the other sensors would still use power. To prevent that from happening, I joined all of them on a separate power rail in which the GND is controlled via an AO3401a N-Channel Mosfet that 
 only gets turned on only at the time of sampling,
 
 After that, I had to cram I all in the case and the board ended up looking like this

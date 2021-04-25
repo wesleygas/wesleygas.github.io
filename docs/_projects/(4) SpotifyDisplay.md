@@ -8,7 +8,7 @@ description: A way to display what media is being played anywhere in your house
 # SpotyStation
 
 
-First of all, I apologise for my terrible creativity for names 😁. But the inspiration is
+First of all, I apologize for my terrible creativity for names 😁. But the inspiration is
 still there! It's a station to show whatever is currently playing on your spotify (or
 any other media player on HomeAssistant)
 
@@ -24,7 +24,7 @@ album cover and sending it to the display. I will be using NodeRed for that.
 ## Getting the image to display
 
  First of, I really wanted to know WTH was that song that Spotify just started playing. For that, 
- I needed to connect my Spotfy account to HomeHssistant. Luckly, there is already an integration
+ I needed to connect my Spotfy account to HomeHssistant. Luckily, there is already an integration
  that does just that right [here](https://www.home-assistant.io/integrations/spotify/)
 
  After that is done and configured, I created a NodeRed flow that would trigger every time the media

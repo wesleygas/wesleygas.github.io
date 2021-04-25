@@ -8,7 +8,10 @@ weight: 3
 # **About Me**
 
 Hi there! I am **Wesley** :wave:,<br>
-I'm a computer engineer student at [Insper](https://www.insper.edu.br/en/), graduating at December 2021. Winning a full scholarship for both high school and university has reassured me of how essential and life changing quality educaiton is. Switching between first and second in class, I also focus on all the extracurricular activities and homemade projects the 24h of a day can fit and give my best to honor those who believe in my potential.
+I'm a computer engineer student at [Insper](https://www.insper.edu.br/en/), graduating in December 2021. 
+My biggest interests revolve around simplifying our day to day lives through technology, be it with fully with autonomous robots or a connected smart home. 
+
+Winning a full scholarship for both high school and university has reassured me of how essential and life changing quality education is. Switching between first and second in class, I also focus on all the extracurricular activities and homemade projects the 24h of a day can fit and give my best to honor those who believe in my potential.
 
 
 <div class="row">
