@@ -1,34 +1,35 @@
 - name: Python
   percentage: 95
-  color: danger
-
-- name: C/C++
-  percentage: 90
-  color: success
-
-- name: Javascript
-  percentage: 90
   color: success
 
 - name: SQL
+  percentage: 95
+  color: success
+
+- name: C/C++
   percentage: 80
-  color: warning
+  color: success
+
+- name: Javascript
+  percentage: 80
+  color: success
 
 - name: VHDL
   percentage: 70
-  color: primary
+  color: warning
 
 - name: C#
   percentage: 70
-  color: primary
+  color: warning
 
-- name: MatLab
-  percentage: 60
-  color: dark
 
 - name: noSQL
   percentage: 60
+  color: primary
+
+
+
+- name: MatLab
+  percentage: 50
   color: dark
-
-
 

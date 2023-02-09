@@ -7,9 +7,21 @@
     Arquidiocesano, with 100% scholarship. As if it wasn't enough, there is still a personal
     development program that I'm still part of.
 
+- title: Data Analyst, BTG Pactual - BR
+  from: 2021
+  to: present
+  description: |
+    Back at BTG I was now responsible for building the entire infrastructure around the
+    Credit/Collection data analysis infrastructure. Everything from ETLs and dashboards to
+    predictive modeling.
+
+    After a year and a half, I am now at the Advanced Analytics subdivision, in charge of finding
+    novel solutions to problems other analysts could not solve through ordinary means.
+    
+
 - title: Computer Engineering, Insper - BR
   from: 2017
-  to: present
+  to: 2021
   description: |
     With a full scholarship I joined Insper knowing I had to experience all I could. So I
     did it! I would spend all the time out of classes at the labs, trying all the tools and
@@ -50,7 +62,7 @@
   description: 
     I started at BTG with the task to build an interactive dashboard for consolidating the
     risk and origin of incomplete financial operations. Finishing before the deadline, I
-    was able to integrate a MQ service with the internal SQL database, giving the Operations
+    was able to integrate the company's MQ service with the internal SQL database, giving the Operations
     area data they had never been able to get on time.
 
 - title: Lead project developer, Dolado - BR

@@ -1,3 +1,7 @@
+- name: Pyspark
+  percentage: 100
+  color: success
+
 - name: Linux Based OS
   percentage: 80
   color: success
@@ -16,6 +20,10 @@
 
 - name: Eagle
   percentage: 70
+  color: info
+
+- name: Apache Nifi
+  percentage: 60
   color: info
 
 - name: Unity
