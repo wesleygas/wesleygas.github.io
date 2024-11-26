@@ -3,7 +3,7 @@
   color: success
 
 - name: SQL
-  percentage: 95
+  percentage: 100
   color: success
 
 - name: C/C++
@@ -14,22 +14,15 @@
   percentage: 80
   color: success
 
-- name: VHDL
-  percentage: 70
-  color: warning
-
 - name: C#
   percentage: 70
   color: warning
-
 
 - name: noSQL
   percentage: 60
   color: primary
 
-
-
-- name: MatLab
-  percentage: 50
-  color: dark
+- name: Cypher
+  percentage: 60
+  color: primary
 

@@ -11,13 +11,19 @@
   from: 2021
   to: present
   description: |
-    Back at BTG I was now responsible for building the entire infrastructure around the
-    Credit/Collection data analysis infrastructure. Everything from ETLs and dashboards to
-    predictive modeling.
+    Back at BTG I was then responsible for building the entire infrastructure around the
+    Credit/Collection data analysis suite. Everything from ETLs and dashboards to
+    predictive modeling and scoring.
 
-    After a year and a half, I am now at the Advanced Analytics subdivision, in charge of finding
-    novel solutions to problems other analysts could not solve through ordinary means.
+     - After a year and a half, I was promoted to the Advanced Analytics subdivision, being in charge of finding
+    novel solutions to problems other analysts could not solve through ordinary means. At this position I built
+    a complete graph analysis tool that could give the flexibility of graphs wihout the need to maintain
+    a propper graph database, being mainly used for PLD and fraud detection purposes.
     
+     - One more year has passed and I felt the need to dive completely into the core of the data-science world,
+    officialy migrating to the data science team. More specifically to the Risk Squad, responsible for building
+    credit scoring and fraud detection models.
+
 
 - title: Computer Engineering, Insper - BR
   from: 2017
@@ -32,9 +38,9 @@
     bringing cultural activities to the campus, in which I took care of the financial side 
     of contracting and renting the installations.
 
-    From the 2nd semester until now I have been reelected as the class representative for the
-    great relation with all the Faculty and university's departments while never been less
-    than the 2nd in class.
+    From the 2nd semester on to my graduation I have been constantly reelected as the class
+    representative for the great relation I had built with all the Faculty and university's
+    departments. All of that while making sure to say between 2nd and 1st in class.
 
 - title: Capstone design summer program, KOREATECH - KR
   from: Jun 2019
